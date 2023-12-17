@@ -1,4 +1,4 @@
-# secure_multi_tier__architecture
+# secure_multi_tier__architecture diagram and Automation Script
 This GitHub repository hosts the resources and documentation for a robust and secure multi-tier architecture designed for scalable and efficient cloud deployments. Central to this repository is a detailed diagram that outlines the architectural framework, highlighting various components and their interactions in a secure environment.
 
 Secure Multi-Tier Architecture Diagram
